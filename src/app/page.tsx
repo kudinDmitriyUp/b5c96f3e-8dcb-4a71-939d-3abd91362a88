@@ -85,11 +85,11 @@ export default function LandingPage() {
             gridVariant="four-items-2x2-equal-grid"
             useInvertedBackground={true}
             testimonials={[
-              { id: "1", name: "Elena R.", role: "Designer", company: "Creative Lab", rating: 5, imageSrc: "https://pixabay.com/get/g44b3f8bfa6b66d40ebf9bfd604e3527a2837870119cad2cc48f48f92cfe5a0a209a79e8239b4e3cb8c8f75ba40707da60defef1bd98c03adb3c356b402fe22db_1280.jpg" },
+              { id: "1", name: "Elena R.", role: "Designer", company: "Creative Lab", rating: 5, imageSrc: "https://pixabay.com/get/g44b3f8bfa6b66d40ebf9bfd604e3527a2837870119cad2cc48f48f92cfe5a0a209a79e8239b4e3cb8c8f75ba40707da60defef1bd98c03adb3c356b402fe22db_1280.jpg?_wi=1" },
               { id: "2", name: "Marcus J.", role: "Architect", company: "Urban Studio", rating: 5, imageSrc: "https://pixabay.com/get/gdda4a0f13b18cb7e615137512b47a9201253f200db0dcf94b8ed3b3f8c23c6dd181d830e97268e20b5ef92a298818196ddd34e9c8037ec6672cd86f2f3fd5738_1280.jpg" },
               { id: "3", name: "Sophie L.", role: "Student", company: "University", rating: 5, imageSrc: "https://pixabay.com/get/g5fd97f70a3c5561dc8406b4dc0259bd467fa9d72b1f93e7491e27f6d4ee7d2464d9b94a0398e01b55bc8338d1c84729eb62ccc8a988e99edfac5706f971c47e9_1280.jpg" },
               { id: "4", name: "David W.", role: "Regular", company: "Community", rating: 5, imageSrc: "https://pixabay.com/get/g7a6d830e7ede6053243ad8446739cca477ce9bc185348d02713b1d7aced9904ef822866d42681663c7ee84b0883e99cdbaf9e648cc93feecd83d61d41e69e3bf_1280.jpg" },
-              { id: "5", name: "Sarah K.", role: "Writer", company: "Zen Journals", rating: 5, imageSrc: "https://pixabay.com/get/g44b3f8bfa6b66d40ebf9bfd604e3527a2837870119cad2cc48f48f92cfe5a0a209a79e8239b4e3cb8c8f75ba40707da60defef1bd98c03adb3c356b402fe22db_1280.jpg" }
+              { id: "5", name: "Sarah K.", role: "Writer", company: "Zen Journals", rating: 5, imageSrc: "https://pixabay.com/get/g44b3f8bfa6b66d40ebf9bfd604e3527a2837870119cad2cc48f48f92cfe5a0a209a79e8239b4e3cb8c8f75ba40707da60defef1bd98c03adb3c356b402fe22db_1280.jpg?_wi=2" }
             ]}
             title="A Moment of Peace"
             description="Hear what our community says about their Matcha experience."
