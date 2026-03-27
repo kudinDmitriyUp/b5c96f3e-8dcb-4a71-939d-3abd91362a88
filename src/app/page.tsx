@@ -124,7 +124,7 @@ export default function LandingPage() {
           role: "Designer",
           company: "Creative Lab",
           rating: 5,
-          imageSrc: "https://pixabay.com/get/g44b3f8bfa6b66d40ebf9bfd604e3527a2837870119cad2cc48f48f92cfe5a0a209a79e8239b4e3cb8c8f75ba40707da60defef1bd98c03adb3c356b402fe22db_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g44b3f8bfa6b66d40ebf9bfd604e3527a2837870119cad2cc48f48f92cfe5a0a209a79e8239b4e3cb8c8f75ba40707da60defef1bd98c03adb3c356b402fe22db_1280.jpg?_wi=1",
         },
         {
           id: "2",
@@ -156,7 +156,7 @@ export default function LandingPage() {
           role: "Writer",
           company: "Zen Journals",
           rating: 5,
-          imageSrc: "https://pixabay.com/get/g44b3f8bfa6b66d40ebf9bfd604e3527a2837870119cad2cc48f48f92cfe5a0a209a79e8239b4e3cb8c8f75ba40707da60defef1bd98c03adb3c356b402fe22db_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g44b3f8bfa6b66d40ebf9bfd604e3527a2837870119cad2cc48f48f92cfe5a0a209a79e8239b4e3cb8c8f75ba40707da60defef1bd98c03adb3c356b402fe22db_1280.jpg?_wi=2",
         },
       ]}
       title="A Moment of Peace"
