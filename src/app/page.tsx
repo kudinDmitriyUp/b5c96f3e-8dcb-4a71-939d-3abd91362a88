@@ -47,6 +47,10 @@ export default function LandingPage() {
         },
       ]}
       brandName="Matcha"
+      button={{
+        text: "Visit Us",
+        href: "#contact",
+      }}
     />
   </div>
 
